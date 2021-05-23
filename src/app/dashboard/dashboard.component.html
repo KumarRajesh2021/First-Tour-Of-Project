@@ -1,0 +1,10 @@
+<h3>Top Villains</h3>
+<div class="grid grid-pad" >
+    <a *ngFor="let villain of villains" class="col-1-4"
+        routerLink="/detail/{{villain.id}}"><!--imp-->
+        <div class="module hero">
+             <h4>{{villain.name}}</h4>
+        </div>
+    </a>
+</div>
+<app-villain-search></app-villain-search>
