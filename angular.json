@@ -118,8 +118,13 @@
               "devServerTarget": "first-tour-of-project:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "first-tour-of-project"
 }
