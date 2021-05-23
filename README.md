@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
-[Let's View Live !!](https://kumarrajesh2020.github.io/First-Tour-of-Project/)
+[Let's View Live !!](https://kumarrajesh2021.github.io/First-Tour-Of-Project/)
 
 
 
